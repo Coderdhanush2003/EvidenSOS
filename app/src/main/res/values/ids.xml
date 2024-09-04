@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="shake_button" type="id" />
+    <item name="main_layout" type="id" />
+    <item name="open_camera_button" type="id" />
+</resources>
